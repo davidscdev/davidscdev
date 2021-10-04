@@ -1,5 +1,5 @@
 ## Oi, eu sou o David 😉
-### ⚽💻🍻 Apaixonado por desenvolvimento web, futebol e música (não necessariamente nessa ordem). 
+### ⚽💻 Apaixonado por desenvolvimento web, futebol e música (não necessariamente nessa ordem). 
 ### 📗 Graduado em Processos Gerenciais pela UFF.
 ### 📗 Graduando em Análise e Desenvolvimento de Sistemas pela Estácio.
 ### Tecnologia estudada no momento: Javascript.
