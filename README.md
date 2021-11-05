@@ -2,7 +2,7 @@
 ### ⚽💻 Apaixonado por desenvolvimento web, futebol e música (não necessariamente nessa ordem). 
 ### 📗 Graduado em Processos Gerenciais pela UFF.
 ### 📗 Graduando em Análise e Desenvolvimento de Sistemas pela Estácio.
-### 📗 Cursando os Bootcamps de ReactJS (DIO | Impulso, IGTI).
+### 📗 Cursando o Bootcamp de ReactJS (IGTI).
 ### Tecnologia estudada no momento: ReactJS.
 ### Meus principais contatos:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidscrj/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-cavalcanti-dev/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521983999842&text=Ol%C3%A1!%20Vim%20pelo%20gthub!) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avidsc.dev@gmail.com)
